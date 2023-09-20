@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MvvmWithHilt</string>
+    <string name="loading">Loading</string>
+    <string name="fetch_users">%s  ta user keldi.</string>
+</resources>
